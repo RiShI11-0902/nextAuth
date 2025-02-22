@@ -31,7 +31,7 @@ function signIn() {
   return (
     <>
       <div className="p-10 font-semibold">
-        <p>sign In</p>
+        <p>Sign In</p>
       </div>
 
       <div className="w-fit mx-auto">
